@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cuadricula
+  - Sol
+  - Guisante
+  - FailState
+  - generadoresZombies
+  - CamaraGameOver
+  - CanvasUIManager
+  - CamaraWinner
+  - Plantorcha
+  - PapaBombExplosion
+  - Zombie
+  - CherryBombExplosion
+  - ExplosionZombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Zombie
+  - Planta
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1510124867
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plants
+    uniqueID: 39497873
+    locked: 0
+  - name: Zombies
+    uniqueID: 2395154157
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2777417643
+    locked: 0

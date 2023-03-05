@@ -1,0 +1,1421 @@
+fileFormatVersion: 2
+guid: fc1fee0590bb0c646a9ad6f93557840c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_nomal_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6943827, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20c9bef678dc4489418f4358a1f8cd
+      internalID: 2066123952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 92
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.69124305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204e8e57defea04db3505bb09422ac6
+      internalID: 75421465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 92
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7062923, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7b64afd2edda47b6b51e64e82d3f6
+      internalID: 132221855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 92
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.69772595, y: 0.0020352742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2011f02753cc4e9fe08ac8ee8edf9
+      internalID: 576226583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 92
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6944846, y: 0.003978036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7b50eaf64137b43803e0f3407bc028
+      internalID: -445168419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 92
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6522051, y: 0.0019025388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e34c0708a0bf847a0575e2020d377c
+      internalID: -643221285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 92
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6349233, y: 0.0019448175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301169af5ab59234c9f1ce3bec656364
+      internalID: -498342144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 92
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.71206313, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b7ff4079327f45a43994e9144ea54
+      internalID: -1759017291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 21
+        height: 47
+      alignment: 9
+      pivot: {x: 0.733381, y: 0.0055861776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa06e551ad2cd459d739132f9bfbd2
+      internalID: -1774402732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 30
+        height: 45
+      alignment: 9
+      pivot: {x: 0.64294636, y: 0.0019448175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44faa009aa45efc448459a909f16b245
+      internalID: 728023331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 92
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.669, y: 0.003978036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7cc86b3066994e9d54b4ae60493cf
+      internalID: 14408761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c509181b3a1741bfbb794d89999bd
+      internalID: -569987981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 92
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5cbfbc3ac2b54a8b0d4c07c16c18f
+      internalID: -1493606781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 92
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8e0b128889c564cbd774519bf5a0b6
+      internalID: -206116569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 92
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fdeeffc6084a943a5af1ffa2a3c5d2
+      internalID: -1558589428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 92
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59c550dda6a5e4b8603eb3fb9aa4f8
+      internalID: -1620188986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 92
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777ef4754b37c4341bd1f6caedb2b029
+      internalID: -1297750844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 92
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87aad5eab20490449d65245f727e3a5
+      internalID: 2105122711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 92
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e694d9cc479c28f43afe30eb1e9498f2
+      internalID: -1700524444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05d4b0b44c94634ba3913a47b34732e
+      internalID: 843400455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 44
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9ee9826cc67b49ab1a0b08b683220
+      internalID: -62938538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 44
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e02fd814efa5f14a83fc092966e5a7a
+      internalID: 440920474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1556c7c5b6828745ac6af2ba7273295
+      internalID: 855593697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd11fb63b2cf34449e0761dc7f3e7f4
+      internalID: -71158168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625b6eb96b33b9149a8daa3f50379976
+      internalID: 98225944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572cef9b228d064aa66a937368ddcaa
+      internalID: -667272925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 44
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc079575a9b53854da4d536d8e68337b
+      internalID: -1626040273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 21
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bac056c8b48c54699cbbdf8306b63f
+      internalID: 376390443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62958bab6dde99241b2259ea1f158a72
+      internalID: -1657991900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c129f7a38db14fa1a7944a291d44c
+      internalID: 465183368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c267e30e16924bbe3f2df2928bd42
+      internalID: -2136869181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5098e5db02506fa4e9de980e412dca50
+      internalID: -2030928829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 44
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c62b65205720a4bbec533469948ed5
+      internalID: -354812357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 44
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e665c9787d1a4a99190afed45aeed
+      internalID: -1155522011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 44
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7369cd7b2073f439ec198d41de6123
+      internalID: -610604806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 44
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f8842e1a34f549b9e2f91389166e6
+      internalID: -871743227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 44
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b170c587fbf8ba44863d48083d8f04d
+      internalID: -276988230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 44
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635a01a853cd3649a227ba9498a4c8e
+      internalID: 314514286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 44
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aba069490ab8d468b2afb45251242a
+      internalID: 1969513118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59ef664c168b942af40643e09c5c8c
+      internalID: 421383325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 11
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee595a8f741fb42812888c86fdc214
+      internalID: 980059666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9474939a21332c498b6f55ae2df0c64
+      internalID: 1010953075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dab8dd867e5d9a4fb3f62f625feb260
+      internalID: -548862043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b955d46d5b20b4d9be5fed3852e6dd
+      internalID: 1752341550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 11
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643805ab6cd17a438d9ead11fff01ca
+      internalID: 1895852730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 11
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94131e5ea9c3c74983419baf5e0c391
+      internalID: 1454094331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6476ff58e5bf7e48a29b31fbdc2b996
+      internalID: -1440156198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9698b8300ce454cb5a64d498672553
+      internalID: -1410231566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 11
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd0d4cc2a923c4a859f91528a8b6ee
+      internalID: 1045383949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34b1780a52ac9d438c955e29d53bec3
+      internalID: -706216230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 11
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27f6d1306558d4b9133eded4541ece
+      internalID: 540961001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_51
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 12
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193d93d60da41f4ead55dd6bca511ed
+      internalID: -1169834948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 11
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c1a747cb1f4094888fdfbe76a2f9a4
+      internalID: 1522855514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 11
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e649aedf2b03c04f995c6458f12e084
+      internalID: -2060888684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16a30f2f976bd43a3788e68f03a81a
+      internalID: 46575775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 11
+        width: 31
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3813de5cd50b23048b80f332bb7d6022
+      internalID: -1986045767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 11
+        width: 36
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e69edfce9a3914a94829c488d86e18
+      internalID: 355015885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_57
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 6
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0fcf42a753e347bbd70f7c258325d
+      internalID: 927658981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_nomal_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a66fd436137949b35cb87ad868345
+      internalID: 918389878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_nomal_0: 2066123952
+      Zombie_nomal_49: -706216230
+      Zombie_nomal_33: -1155522011
+      Zombie_nomal_37: 314514286
+      Zombie_nomal_56: 355015885
+      Zombie_nomal_4: -445168419
+      Zombie_nomal_26: -1626040273
+      Zombie_nomal_17: 2105122711
+      Zombie_nomal_25: -667272925
+      Zombie_nomal_53: -2060888684
+      Zombie_nomal_15: -1620188986
+      Zombie_nomal_38: 1969513118
+      Zombie_nomal_46: -1440156198
+      Zombie_nomal_3: 576226583
+      Zombie_nomal_52: 1522855514
+      Zombie_nomal_19: 843400455
+      Zombie_nomal_45: 1454094331
+      Zombie_nomal_18: -1700524444
+      Zombie_nomal_48: 1045383949
+      Zombie_nomal_6: -498342144
+      Zombie_nomal_54: 46575775
+      Zombie_nomal_21: 440920474
+      Zombie_nomal_34: -610604806
+      Zombie_nomal_47: -1410231566
+      Zombie_nomal_30: -2136869181
+      Zombie_nomal_32: -354812357
+      Zombie_nomal_24: 98225944
+      Zombie_nomal_41: 1010953075
+      Zombie_nomal_55: -1986045767
+      Zombie_nomal_40: 980059666
+      Zombie_nomal_51: -1169834948
+      Zombie_nomal_9: 728023331
+      Zombie_nomal_28: -1657991900
+      Zombie_nomal_13: -206116569
+      Zombie_nomal_11: -569987981
+      Zombie_nomal_12: -1493606781
+      Zombie_nomal_35: -871743227
+      Zombie_nomal_36: -276988230
+      Zombie_nomal_27: 376390443
+      Zombie_nomal_14: -1558589428
+      Zombie_nomal_1: 75421465
+      Zombie_nomal_8: -1774402732
+      Zombie_nomal_57: 927658981
+      Zombie_nomal_44: 1895852730
+      Zombie_nomal_31: -2030928829
+      Zombie_nomal_50: 540961001
+      Zombie_nomal_20: -62938538
+      Zombie_nomal_39: 421383325
+      Zombie_nomal_29: 465183368
+      Zombie_nomal_5: -643221285
+      Zombie_nomal_2: 132221855
+      Zombie_nomal_7: -1759017291
+      Zombie_nomal_10: 14408761
+      Zombie_nomal_42: -548862043
+      Zombie_nomal_22: 855593697
+      Zombie_nomal_23: -71158168
+      Zombie_nomal_16: -1297750844
+      Zombie_nomal_43: 1752341550
+      Zombie_nomal_58: 918389878
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

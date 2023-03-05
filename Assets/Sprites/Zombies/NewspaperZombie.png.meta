@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: d22a11477188911408f81c3dd72e2ff1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewspaperZombie_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7976852, y: 0.00000007785096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77844af124cb470429439d1ecd7579c8
+      internalID: 1636659367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 58
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6038454, y: 0.003065256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32528429556a454b8a9846378f08523
+      internalID: 1698264008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77a44238e5dbb743ab0a161b14c03e3
+      internalID: 916758707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 58
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5129238, y: 0.00000008116377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984e539c4635ff41a0ecbe068cb1a17
+      internalID: 961567087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 58
+        width: 35
+        height: 52
+      alignment: 9
+      pivot: {x: 0.62751293, y: 0.001532628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bded91c27a99b348b1a01e5dc260dda
+      internalID: 1167038238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 58
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7814245, y: 0.0032529247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fc29b6ebb2fb41b6f6f74acfa7a62
+      internalID: 344665916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 58
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.80771255, y: 0.0016956736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d33cf9f60b254941841a8f3d287e75f
+      internalID: 263053379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7989395, y: 0.0010570141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4d6718a913eef4394c9f10b2978e4c
+      internalID: -979301061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6022676, y: 0.001754031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b52bcb9265344a88231f1bc79c497
+      internalID: -802775635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 37
+        height: 49
+      alignment: 9
+      pivot: {x: 0.517256, y: -0.0018615137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9401251998d347b62a0934803a09c
+      internalID: 800504996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53742003, y: -0.000000048448648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c254a366387eee4aa2de069942161d8
+      internalID: -674596235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6050313, y: 0.001754031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21782212cc99a649bd9d3b3bcc93ab2
+      internalID: 306595131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 35
+        height: 49
+      alignment: 9
+      pivot: {x: 0.8023019, y: -0.00000004647115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5e58d7dec75244b94eac46c1aa4ef
+      internalID: 408579018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewspaperZombie_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.8065728, y: 0.00194063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb7f377751cba469fb3bbb78ada55a
+      internalID: 1873229800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NewspaperZombie_3: 961567087
+      NewspaperZombie_7: -979301061
+      NewspaperZombie_11: 306595131
+      NewspaperZombie_6: 263053379
+      NewspaperZombie_1: 1698264008
+      NewspaperZombie_8: -802775635
+      NewspaperZombie_10: -674596235
+      NewspaperZombie_5: 344665916
+      NewspaperZombie_12: 408579018
+      NewspaperZombie_9: 800504996
+      NewspaperZombie_2: 916758707
+      NewspaperZombie_4: 1167038238
+      NewspaperZombie_0: 1636659367
+      NewspaperZombie_13: 1873229800
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

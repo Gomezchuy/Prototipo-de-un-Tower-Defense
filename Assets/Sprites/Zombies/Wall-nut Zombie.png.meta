@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 6e40b5ac8444c5743b0cc8ef255e5631
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall-nut Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7199718, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759e233ed3653846897672d95c6dfc6
+      internalID: 348372028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 47
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7199718, y: 0.0023012615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52cf8e1a619b9f4996182bea454e489
+      internalID: 1027974497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 46
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.52416366, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e57285b61bd3944a756ae67bd0d89c
+      internalID: 1968032219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 46
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.43914372, y: 0.0021966586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5393b0f4d3bec4f9137549286753f3
+      internalID: -1293847303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54089236, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f4a433e7cc4fa45946fcda53164b78
+      internalID: -1320722234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 45
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6610902, y: -0.0021966586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ecdc0f9be69904d9ed076c39bf08ca
+      internalID: 1289283302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 45
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7266377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaab8fd97a44474e999b62a52f228f1
+      internalID: 1104189686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.70788586, y: -0.0000000732411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234e2c17e5e24d3488ba40ba5ea12936
+      internalID: -1915039943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5601374, y: -0.00000007149726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1db0da04139824a9a45cd5edf85379
+      internalID: 2009293641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.43234518, y: 0.0042168843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48b3aee276ad341906f45b412a2ab2
+      internalID: -1471943012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5092209, y: -0.00000007149726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af22ff40b335847a5de7ca271b5bcd
+      internalID: -1937862820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.65034354, y: -0.000000069834535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf3963c7b83f2f4d971163182773e4d
+      internalID: -299767928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7324478, y: 0.0013721131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ce6945d5e0474587b2a05b143d6d6
+      internalID: 810586572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-nut Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.73052675, y: -0.0014057257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fcf883ad59224da04031cb40d8d13
+      internalID: 528103885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wall-nut Zombie_13: 528103885
+      Wall-nut Zombie_2: 1968032219
+      Wall-nut Zombie_7: -1915039943
+      Wall-nut Zombie_11: -299767928
+      Wall-nut Zombie_1: 1027974497
+      Wall-nut Zombie_9: -1471943012
+      Wall-nut Zombie_0: 348372028
+      Wall-nut Zombie_5: 1289283302
+      Wall-nut Zombie_3: -1293847303
+      Wall-nut Zombie_10: -1937862820
+      Wall-nut Zombie_6: 1104189686
+      Wall-nut Zombie_12: 810586572
+      Wall-nut Zombie_8: 2009293641
+      Wall-nut Zombie_4: -1320722234
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
